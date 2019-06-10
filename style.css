@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+header #celular{
+    width:auto;
+    display: flex;
+    align-items: flex-end;
+}
+#texto{
+    width:200px;
+    height:100px;
+    
+}
+header{
+    display: flex;
+    justify-content:space-around;
+    background-image:url('105-projeto-notify-master/img/banner.png');
+    width:100vw;
+    height:500px;
+    background-size:cover;
+}
+#celular img{
+    
+}
+#texto{
+    width:20vw;
+    height:100%;
+}
